@@ -6,6 +6,5 @@
 
 # AVISO
 Este código foi feito apenas para estudos. Toda e qualquer critica é bem vinda para que eu posssa melhorar, tanto minha lógica quanto a funcionalida de um programa.\
-\
 
 # OBRIGADO PELA VISITA 
